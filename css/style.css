@@ -209,6 +209,9 @@ i.i-caracteristicas {
 .navbar {
     padding: 1.1rem 5.5rem!important;
 }
+.entrada {
+    word-break: break-word!important;
+}
 @media (min-width: 860px){
 body {
     background-color: #e5e5e5;
