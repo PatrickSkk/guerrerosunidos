@@ -299,6 +299,9 @@ body {
     background-color: #fff;
 	font-size:10px;
 }
+body .container-fluid {
+    margin-top: 6em!important;
+}
 .body-up {
 padding-top: 5%;
 }
